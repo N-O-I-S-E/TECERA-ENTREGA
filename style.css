@@ -1,0 +1,13 @@
+.cardProd{
+    width: 15% !important;
+    margin: 5%;
+}
+
+#finalizar{
+   align-items: center;
+}
+.boton{
+  
+    display: flex;
+    justify-content: center;
+}
